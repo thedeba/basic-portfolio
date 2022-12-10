@@ -1,0 +1,237 @@
+html{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: slategray;
+}
+
+  .button2 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 130px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button2:hover span {
+    padding-right: 25px;
+  }
+  .button2:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  .button3 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 130px;
+    
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button3 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button3 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button3:hover span {
+    padding-right: 25px;
+  }
+  .button3:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+
+  .button4 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 135px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button4 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button4 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button4:hover span {
+    padding-right: 25px;
+  }
+  .button4:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+
+
+
+
+
+  .button5 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 135px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button5 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button5 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button5:hover span {
+    padding-right: 25px;
+  }
+  .button5:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+
+
+.img1{
+    margin-top: 0px;
+   margin-left: 25%;
+   float: left ;
+    height: auto;
+    width: auto;
+    border: 10px;
+}
+.img2{
+height: 32px;
+width: 32px;
+border-radius: 100%;
+}
+.img3{
+    height: 32px;
+    width: 32px;
+    border-radius: 100%;
+    }
+    .img4{
+        height: 32px;
+        width: 32px;
+        border-radius: 100%;
+        }
+.div1{
+    width: 50px;
+    height: 50px;
+   border: 5px wheat;
+}
+.div2{
+    
+    margin-left: 750px;
+}
+.div3{
+    background-color: aliceblue;
+    margin-left: 900px;
+    margin-top: 10px;
+}
+
+
+#text{
+    font-weight: 300;
+    margin-top: 70px;
+    font-style: italic;
+    color: white;
+}
+
+#A{
+    background: url(https://pbs.twimg.com/media/FiAqKEFaYAAZr4E?format=png&name=small);
+    padding: 150px 150px;
+    margin-left: -620px;
+    background-position: center;
+    background-size: small;
+    background-repeat: no-repeat;
+    
+}
+.text100{
+    font-size: 70px;
+    color: rgb(202, 207, 207);
+    font-family: 'Courier New', monospace;
+    margin-left: 1100px;
+    
+}
+.surname{
+    font-size: 50px;
+    margin-left: 30px;
+}
+#text2{
+    font-size: 30px;
+    color: white;
+    font-family: 'Courier New', monospace;
+    margin-top: 100px;
+}
+#text3{
+    font-size: 25px;
+    color: #FFFFFF;
+    font-family: 'Courier New', monospace;
+}

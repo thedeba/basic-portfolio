@@ -1,0 +1,157 @@
+html{
+margin: 20px 20px 20px 20px;
+background-color: slategray;
+}
+.button1 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 130px;
+    
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button1 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button1:hover span {
+    padding-right: 25px;
+  }
+  .button1:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  .button2 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 130px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button2:hover span {
+    padding-right: 25px;
+  }
+  .button2:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  
+  .button4 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 135px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button4 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button4 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button4:hover span {
+    padding-right: 25px;
+  }
+  .button4:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  .button5 {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    width: 135px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button5 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button5 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button5:hover span {
+    padding-right: 25px;
+  }
+  .button5:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+
+  .text1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', monospace;
+    margin-top: 300px;
+  }
